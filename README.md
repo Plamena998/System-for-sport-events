@@ -18,6 +18,7 @@ A comprehensive web-based platform for managing and organizing sports events, bu
 
 => Key Features
 
+===================
 For Administrators:
 
 Event Management
@@ -45,3 +46,17 @@ Create user accounts
 Set roles for users (administrator or regular user)
 Control user access and permissions
 Delete users when needed
+
+=================
+For Regular Users
+
+Event Discovery
+Browse all upcoming sports events
+View event details such as date, time, duration, and location
+See event photos and descriptions
+Filter events by date
+Filter events by organizer
+Filter events by sport type
+Use multiple filters at the same time for better search results
+
+
