@@ -9,4 +9,9 @@ This system offers a central web platform where:
  - Users can view, search, and filter events by date, organizer, or sport type;
  - Images from events help make them more attractive and engaging;
 
-   
+Target Audience:
+ - Sports clubs and sports organizations;
+ - Companies that organize events;
+ - Universities and schools that run sports programs;
+ - Local community sports centers;
+ - City and municipal sports departments;
